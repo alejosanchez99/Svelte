@@ -39,13 +39,13 @@ let name = "Svelte";
 
 
   /** With this tag you can applie style over other components*/
-  :global(h1) {
+  /* :global(h1) {
     color: goldenrod;
     font-family: "Comic Sans MS", cursive;
     font-size: 2em;
     text-align: center;
     animation: zoom 5s;
-  }
+  } */
 
   @keyframes zoom {
     0%,
